@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\NFS MW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\decrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|..\\IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\getdebuggerdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\nfs mw\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}|",
+      "RelativeMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\idecrypter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|..\\IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\properties\\rd.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\hashesbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\hashes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\irdlibraryclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\irdparserhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\irdparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\isoheaderparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\isoheaderparserhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\headerencodingselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44729DF4-FC72-4BC0-98EA-2ED6D8F9233B}|IrdLibraryClient.csproj|c:\\users\\the wilsons\\desktop\\playstation\\roms\\ps3 roms\\need to decrypt\\need for speed most wanted\\ird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ird.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Ird.cs",
+              "RelativeDocumentMoniker": "..\\Ird.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Ird.cs",
+              "RelativeToolTip": "..\\Ird.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawCsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:04:15.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDebuggerDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\GetDebuggerDisplay.cs",
+              "RelativeDocumentMoniker": "..\\GetDebuggerDisplay.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\GetDebuggerDisplay.cs*",
+              "RelativeToolTip": "..\\GetDebuggerDisplay.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:15:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hashesBase.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\hashesBase.cs",
+              "RelativeDocumentMoniker": "..\\hashesBase.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\hashesBase.cs",
+              "RelativeToolTip": "..\\hashesBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:33:53.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hashes.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\hashes.cs",
+              "RelativeDocumentMoniker": "..\\hashes.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\hashes.cs",
+              "RelativeToolTip": "..\\hashes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:31:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDecrypter.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IDecrypter.cs",
+              "RelativeDocumentMoniker": "..\\IDecrypter.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IDecrypter.cs",
+              "RelativeToolTip": "..\\IDecrypter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:03:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IrdParserHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdParserHelpers.cs",
+              "RelativeDocumentMoniker": "..\\IrdParserHelpers.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdParserHelpers.cs",
+              "RelativeToolTip": "..\\IrdParserHelpers.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:21:56.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\NFS MW\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\NFS MW\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-17T10:18:49.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IrdLibraryClient",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdLibraryClient.csproj",
+              "RelativeDocumentMoniker": "..\\IrdLibraryClient.csproj",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdLibraryClient.csproj",
+              "RelativeToolTip": "..\\IrdLibraryClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T07:05:40.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HeaderEncodingSelector.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\HeaderEncodingSelector.cs",
+              "RelativeDocumentMoniker": "..\\HeaderEncodingSelector.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\HeaderEncodingSelector.cs",
+              "RelativeToolTip": "..\\HeaderEncodingSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:50:42.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Decrypter.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Decrypter.cs",
+              "RelativeDocumentMoniker": "..\\Decrypter.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Decrypter.cs",
+              "RelativeToolTip": "..\\Decrypter.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAlwCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:21:36.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IrdParser.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdParser.cs",
+              "RelativeDocumentMoniker": "..\\IrdParser.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IrdParser.cs",
+              "RelativeToolTip": "..\\IrdParser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:31:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IsoHeaderParserHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IsoHeaderParserHelpers.cs",
+              "RelativeDocumentMoniker": "..\\IsoHeaderParserHelpers.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IsoHeaderParserHelpers.cs",
+              "RelativeToolTip": "..\\IsoHeaderParserHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:30:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IsoHeaderParser.cs",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IsoHeaderParser.cs",
+              "RelativeDocumentMoniker": "..\\IsoHeaderParser.cs",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\IsoHeaderParser.cs",
+              "RelativeToolTip": "..\\IsoHeaderParser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:59:37.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rd.xml",
+              "DocumentMoniker": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Properties\\rd.xml",
+              "RelativeDocumentMoniker": "..\\Properties\\rd.xml",
+              "ToolTip": "C:\\Users\\The Wilsons\\Desktop\\Playstation\\Roms\\PS3 Roms\\Need To Decrypt\\Need For Speed Most Wanted\\Properties\\rd.xml",
+              "RelativeToolTip": "..\\Properties\\rd.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-17T03:04:28.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
